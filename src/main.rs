@@ -1,5 +1,5 @@
-mod dunder_mifflin_company_registrar;
+mod dunder_mifflin_employee_registrar;
 
 fn main() {
-    dunder_mifflin_company_registrar::start();
+    dunder_mifflin_employee_registrar::start();
 }

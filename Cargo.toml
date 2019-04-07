@@ -1,5 +1,5 @@
 [package]
-name = "learning_rust"
+name = "dunder_mifflin_employee_registrar"
 version = "0.1.0"
 authors = ["Jakub Koralewski <jakub.koralewski1@gmail.com>"]
 edition = "2018"
